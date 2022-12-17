@@ -1,0 +1,478 @@
+.header1 {
+    position: absolute;
+    width: 100%;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    background: #8EAAF1;
+}
+
+.music {
+    position: absolute;
+    width: 36.35px;
+    height: 35px;
+    left: 155.74px;
+    top: 12px;
+}
+
+.logo1 {
+    position: absolute;
+    width: 106.97px;
+    height: 18px;
+    left: 235.71px;
+    top: -15px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+
+.logo2 {
+    position: absolute;
+    width: 146.43px;
+    height: 21px;
+    left: 235.71px;
+    top: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.nomber {
+    position: absolute;
+    width: 25.96px;
+    height: 26.52px;
+    left: 609.58px;
+    top: 16px;
+}
+
+.nomb {
+    position: absolute;
+    width: 118.39px;
+    height: 32px;
+    left: 652.16px;
+    top: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.rect1 {
+    position: absolute;
+    width: 257.55px;
+    height: 36px;
+    left: 967px;
+    top: 12px;
+    background: #FFFFFF;
+    border: none;
+}
+
+.rect2 {
+    position: absolute;
+    width: 100%;
+    height: 45px;
+    left: 0px;
+    top: 60px;
+    background: #D9E8FF;
+}
+
+.gol {
+    position: absolute;
+    width: 81.48px;
+    height: 20px;
+    left: 253px;
+    top: 75px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.pod {
+    position: absolute;
+    width: 62px;
+    height: 15px;
+    left: 390px;
+    top: 75px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.navch {
+    position: absolute;
+    width: 88px;
+    height: 20px;
+    left: 510px;
+    top: 75px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.pro {
+    position: absolute;
+    width: 95px;
+    height: 16px;
+    left: 697px;
+    top: 75px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.gal {
+    position: absolute;
+    width: 92px;
+    height: 17px;
+    left: 892px;
+    top: 75px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.kont {
+    position: absolute;
+    width: 93px;
+    height: 13px;
+    left: 1045px;
+    top: 75px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.rect12 {
+    position: absolute;
+    width: 987px;
+    height: 500px;
+    left: 190px;
+    top: 165px;
+    background: #8EAAF1;
+}
+
+.rect13 {
+    position: absolute;
+    width: 925px;
+    height: 435px;
+    left: 190px;
+    top: 165px;
+    background: #D9E8FF;
+}
+
+.basha {
+    position: absolute;
+    width: 613px;
+    height: 89px;
+    left: 489px;
+    top: 191px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: right;
+    color: #000000;
+}
+
+.zal {
+    position: absolute;
+    width: 648px;
+    height: 36px;
+    left: 453px;
+    top: 291px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: right;
+    color: rgba(0, 0, 0, 0.79);
+}
+
+.rect14 {
+    position: absolute;
+    width: 833px;
+    height: 198px;
+    left: 271px;
+    top: 349px;
+    background: #FFFFFF;
+    box-shadow: 6px 4px 8px rgba(0, 0, 0, 0.55);
+}
+
+.rect15 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 215px;
+    height: 53px;
+    left: 301px;
+    top: 395px;
+    background: #FFFFFF;
+    border: 1px solid #B1B1B1;
+}
+
+.rect16 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 215px;
+    height: 53px;
+    left: 589px;
+    top: 395px;
+    background: #FFFFFF;
+    border: 1px solid #B1B1B1;
+}
+
+.rect17 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 215px;
+    height: 53px;
+    left: 867px;
+    top: 395px;
+    background: #FFFFFF;
+    border: 1px solid #B1B1B1;
+}
+
+.rect18 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 215px;
+    height: 53px;
+    left: 867px;
+    top: 476px;
+    background: rgba(0, 0, 0, 0.55);
+    border: 1px solid #B1B1B1;
+}
+
+.rect19 {
+    position: absolute;
+    width: 100%;
+    height: 200px;
+    left: 1px;
+    top: 731px;
+    background: #8EAAF1;
+}
+
+.music1 {
+    position: absolute;
+    width: 34.17px;
+    height: 35px;
+    left: 152.33px;
+    top: 823px;
+}
+
+.logo11 {
+    position: absolute;
+    width: 100.56px;
+    height: 18px;
+    left: 227.51px;
+    top: 795px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+
+.logo21 {
+    position: absolute;
+    width: 137.66px;
+    height: 21px;
+    left: 227.51px;
+    top: 811px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.gol1 {
+    position: absolute;
+    width: 66.39px;
+    height: 20px;
+    left: 558px;
+    top: 777px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.pod1 {
+    position: absolute;
+    width: 60.53px;
+    height: 15px;
+    left: 563px;
+    top: 822px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.nav1 {
+    position: absolute;
+    width: 85.92px;
+    height: 20px;
+    left: 558px;
+    top: 864px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.pro1 {
+    position: absolute;
+    width: 92.75px;
+    height: 16px;
+    left: 799px;
+    top: 777px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.gal1 {
+    position: absolute;
+    width: 89.82px;
+    height: 17px;
+    left: 802px;
+    top: 821px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.kon1 {
+    position: absolute;
+    width: 90.8px;
+    height: 13px;
+    left: 799px;
+    top: 864px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.img16 {
+    position: absolute;
+    width: 24.41px;
+    height: 26px;
+    left: 1063px;
+    top: 772px;
+}
+
+.catet {
+    position: absolute;
+    width: 90.8px;
+    height: 16px;
+    left: 1125px;
+    top: 758px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.nom2 {
+    position: absolute;
+    width: 24.41px;
+    height: 26.52px;
+    left: 1063px;
+    top: 829px;
+}
+
+.nom3 {
+    position: absolute;
+    width: 111.3px;
+    height: 32px;
+    left: 1125px;
+    top: 816px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.img17 {
+    position: absolute;
+    width: 24.41px;
+    height: 21.43px;
+    left: 1063px;
+    top: 886px;
+}
+
+.catet1 {
+    position: absolute;
+    width: 90.8px;
+    height: 16px;
+    left: 1125px;
+    top: 869px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
